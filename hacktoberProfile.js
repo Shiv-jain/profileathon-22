@@ -1,149 +1,154 @@
 var profiles = [
-    /*write from here*/
-    {
-        name: 'Shahroz Ahmed',
-        place: 'Karachi, Pakistan',
-        github: 'ShahrozAhmd',
-    },
+	/*write from here*/
+	{
+		name: "Shahroz Ahmed",
+		place: "Karachi, Pakistan",
+		github: "ShahrozAhmd",
+	},
 
-    {
-        name: 'Shreya Malogi',
-        place: 'Hyderabad,Telangana,India',
-        github: 'shreyamalogi',
-    },
+	{
+		name: "Shreya Malogi",
+		place: "Hyderabad,Telangana,India",
+		github: "shreyamalogi",
+	},
 
-    {
-        name: 'Skand Sharma',
-        place: 'Jamshedpur, Jharkhand, India',
-        github: 'skand1110',
-    },
+	{
+		name: "Skand Sharma",
+		place: "Jamshedpur, Jharkhand, India",
+		github: "skand1110",
+	},
 
-    {
-        name: 'Prakash kumar',
-        place: 'Patna,Bihar,India',
-        github: 'prakash-sah-lab',
-    },
+	{
+		name: "Prakash kumar",
+		place: "Patna,Bihar,India",
+		github: "prakash-sah-lab",
+	},
 
-    {
-        name: 'Manish Saha',
-        place: 'Kolkata, West Bengal, India',
-        github: 'Manice18',
-    },
+	{
+		name: "Manish Saha",
+		place: "Kolkata, West Bengal, India",
+		github: "Manice18",
+	},
 
-    {
-        name: 'Shruthi Kotawar',
-        place: 'Hyderabad,Telangana,India',
-        github: 'Shruthi-kotawar',
-    },
+	{
+		name: "Shruthi Kotawar",
+		place: "Hyderabad,Telangana,India",
+		github: "Shruthi-kotawar",
+	},
 
-    {
-        name: 'Niranjan Kurhade',
-        place: 'Mumbai,Maharashtra,India',
-        github: 'niranjan-kurhade',
-    },
-    {
-    name : 'Sumit Raikwar',
-    place : 'Sagar,Madhya Pradesh,India',
-    github : 'SumitRaikwar18'
-    },
-    
-    {
-        name: 'Miswar Yousuf',
-        place: 'Hyderabad,Telangana,India',
-        github: 'miswaryousuft',
-    },
+	{
+		name: "Niranjan Kurhade",
+		place: "Mumbai,Maharashtra,India",
+		github: "niranjan-kurhade",
+	},
+	{
+		name: "Sumit Raikwar",
+		place: "Sagar,Madhya Pradesh,India",
+		github: "SumitRaikwar18",
+	},
 
-    {
-        name: 'Pratyusha Maisa',
-        place: 'Hyderabad,Telangana,India',
-        github: 'Pratyusha-spec',
-    },
+	{
+		name: "Miswar Yousuf",
+		place: "Hyderabad,Telangana,India",
+		github: "miswaryousuft",
+	},
 
-    {
-        name: 'Sankooru Manideep',
-        place: 'Hyderabad, Telangana, India',
-        github: 'sankooru14',
-    },
+	{
+		name: "Pratyusha Maisa",
+		place: "Hyderabad,Telangana,India",
+		github: "Pratyusha-spec",
+	},
 
-    {
-        name: 'Yorgina Lecaros',
-        place: 'Lima, Peru',
-        github: 'YorLecaros',
-    },
+	{
+		name: "Sankooru Manideep",
+		place: "Hyderabad, Telangana, India",
+		github: "sankooru14",
+	},
 
-    {
-        name: 'Harshit Pachori',
-        place: 'Aligarh, UttarPradesh, India',
-        github: 'harshitpachori',
-    },
+	{
+		name: "Yorgina Lecaros",
+		place: "Lima, Peru",
+		github: "YorLecaros",
+	},
 
-    {
-        name: 'Amit Das',
-        place: 'Kolkata, India',
-        github: 'das-amit',
-    },
+	{
+		name: "Harshit Pachori",
+		place: "Aligarh, UttarPradesh, India",
+		github: "harshitpachori",
+	},
 
-    {
-        name: 'Nikhil Raikwar',
-        place: 'Sagar,Madhya Pradesh,India',
-        github: 'NikhilRaikwar',
-    },
+	{
+		name: "Amit Das",
+		place: "Kolkata, India",
+		github: "das-amit",
+	},
 
-    {
-        name: 'Akasaka Ryuunosuke',
-        place: 'Tokyo, Japan',
-        github: 'idm1303',
-    },
+	{
+		name: "Nikhil Raikwar",
+		place: "Sagar,Madhya Pradesh,India",
+		github: "NikhilRaikwar",
+	},
 
-    {
-        name: 'Shravya Malogi',
-        place: 'Hyderabad,Telangana,India',
-        github: 'shravyamalogi',
-    },
+	{
+		name: "Akasaka Ryuunosuke",
+		place: "Tokyo, Japan",
+		github: "idm1303",
+	},
 
-    {
-        name: 'Noundla Chandrasangna',
-        place: 'Karimnagar,Telangana,India',
-        github: 'chandrasangna',
-    },
-    {
-        name: 'Shivani Thudimilla',
-        place: 'Suryapet,Telangana,India',
-        github: 'ShivaniThudimilla',
-    },
-    {
-        name: 'Niharika Ponugoti',
-        place: 'Jangoan, Telangana, India',
-        github: 'niharikaponugoti',
-    },
+	{
+		name: "Shravya Malogi",
+		place: "Hyderabad,Telangana,India",
+		github: "shravyamalogi",
+	},
 
-    {
-        name: 'Rio Cantre',
-        place: 'Italy',
-        github: 'RioCantre',
-    },
+	{
+		name: "Noundla Chandrasangna",
+		place: "Karimnagar,Telangana,India",
+		github: "chandrasangna",
+	},
+	{
+		name: "Shivani Thudimilla",
+		place: "Suryapet,Telangana,India",
+		github: "ShivaniThudimilla",
+	},
+	{
+		name: "Niharika Ponugoti",
+		place: "Jangoan, Telangana, India",
+		github: "niharikaponugoti",
+	},
 
-    {
-        name: 'Savio Dias',
-        place: 'Mumbai,Maharashtra,India',
-        github: 'Savio629',
-    },
-    
-   {
-    name : "Jesse Mayo",
-    place : "Raleigh, NC, USA",
-    github : "jsmayo"
-  },
-      {
-    name : "Amitabh Dasgupta",
-    place : "Kolkata, West Bengal, India",
-    github : "Shelby-kun"
-  },
-      {
-    name : "Koustav Saha",
-    place : "Kolkata, West Bengal, India",
-    github : "k0ustav"
-  }
+	{
+		name: "Rio Cantre",
+		place: "Italy",
+		github: "RioCantre",
+	},
 
-    //end of json
+	{
+		name: "Savio Dias",
+		place: "Mumbai,Maharashtra,India",
+		github: "Savio629",
+	},
+
+	{
+		name: "Jesse Mayo",
+		place: "Raleigh, NC, USA",
+		github: "jsmayo",
+	},
+	{
+		name: "Amitabh Dasgupta",
+		place: "Kolkata, West Bengal, India",
+		github: "Shelby-kun",
+	},
+	{
+		name: "Koustav Saha",
+		place: "Kolkata, West Bengal, India",
+		github: "k0ustav",
+	},
+	{
+		name: "Chirantan Basu",
+		place: "Kolkata, West Bengal, India",
+		github: "chirantan-basu01",
+	},
+
+	//end of json
 ];
